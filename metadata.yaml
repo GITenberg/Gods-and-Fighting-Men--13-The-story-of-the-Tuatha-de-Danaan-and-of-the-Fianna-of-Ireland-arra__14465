@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4092
     wikipedia: http://en.wikipedia.org/wiki/Augusta,_Lady_Gregory
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14465#Gods-and-Fighting-Men--13-The-story-of-the-Tuatha-de-Danaan-and-of-the-Fianna-of-Ireland-arra_
 gutenberg_issued: '2004-12-25'
 gutenberg_type: Text
 identifiers:
